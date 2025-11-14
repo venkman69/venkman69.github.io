@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+A Hands-Dirty CyberSecurity executive with 20+ years of progressive leadership experience specializing in the strategic execution of large-scale, complex security transformations. A recognized leader who thrives in ambiguity, expertly translating business objectives into clear, accelerated technical delivery roadmaps. Proven expertise driving critical uplifts in security posture across global organizations, with deep domain focus in Identity and Access Management (IAM) transformation, enterprise Risk and Fraud Services, Edge security (including Credential Validation Attack mitigation), and full-lifecycle Application Security (AppSec). Adept at managing multi-faceted projects and achieving impactful results by partnering effectively with both business and technology owners.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+Message me on [LinkedIn] 
+
+[LinkedIn]: https://www.linkedin.com/in/narayan-n/
+
