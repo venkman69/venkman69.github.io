@@ -1,2 +1,4 @@
-# venkman69.github.io
-blog items
+To see a local rendering
+```
+bundle exec jekyll serve
+```
